@@ -1,9 +1,12 @@
-# Tela-Login2
+📌 LoginUI
 
-Projeto que consiste ser uma tela de cadastro.
+<h3>Este Este projeto consiste na implementação de uma Interface de Cadastro (Sign-Up), projetada para ser a porta de entrada de novos usuários em um sistema ou aplicação</h3>
 
-Tecnologias: HTML - CSS - javascript
-
+🚀 Tecnologias
+- HTML 
+- CSS
+- javascript
+---
 <div align="center">
 <img src="https://user-images.githubusercontent.com/85089692/205413961-1e8a7b40-98f8-410a-b9ed-1d07fc5eb0f4.png" width="700px" />
 </div>
